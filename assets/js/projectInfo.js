@@ -32,7 +32,7 @@ export const projectInfo = [
 	{
 		id: "app-4",
 		name: "Online Shop",
-		tech: "HTML, CSS, Typescript, ReactJS",
+		tech: "HTML, CSS, Typescript, Vite, ReactJS, MUI",
 		date: "10/2024",
 		link: "https://ndtfashion.netlify.app/",
 		img: ["app-4.png", "app-4-1.png", "app-4-2.png"],
