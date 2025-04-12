@@ -2,7 +2,7 @@ export const projectInfo = [
 	{
 		id: "app-1",
 		name: "Music Band",
-		tech: "HTML, CSS, Javascript",
+		tech: "HTML, CSS, JavaScript",
 		date: "06/2024",
 		link: "https://trongnguyen10.github.io/Music-Band/",
 		img: ["app-1.png", "app-1-1.png", "app-1-2.png"],
@@ -12,7 +12,7 @@ export const projectInfo = [
 	{
 		id: "app-2",
 		name: "Music Player",
-		tech: "HTML, CSS, Javascript",
+		tech: "HTML, CSS, JavaScript",
 		date: "09/2024",
 		link: "https://trongnguyen10.github.io/music-player/",
 		img: ["app-2.png", "app-2-1.png", "app-2-2.png"],
@@ -22,7 +22,7 @@ export const projectInfo = [
 	{
 		id: "app-3",
 		name: "To do list",
-		tech: "HTML, CSS, Javascript",
+		tech: "HTML, CSS, JavaScript",
 		date: "11/2024",
 		link: "https://trongnguyen10.github.io/todolist/",
 		img: ["app-3.png"],
@@ -32,7 +32,7 @@ export const projectInfo = [
 	{
 		id: "app-4",
 		name: "Online Shop",
-		tech: "HTML, CSS, Typescript, Vite, ReactJS, MUI",
+		tech: "HTML, CSS, TypeScript, Vite, ReactJS, MUI, REST API, JSON Server",
 		date: "10/2024",
 		link: "https://ndtfashion.netlify.app/",
 		img: ["app-4.png", "app-4-1.png", "app-4-2.png"],
@@ -42,7 +42,7 @@ export const projectInfo = [
 	{
 		id: "app-5",
 		name: "Tiktok UI",
-		tech: "HTML, CSS, Javascript, ReactJS",
+		tech: "HTML, SCSS, JavaScript, ReactJS, Firebase, REST API, JSON Server",
 		date: "02/2025",
 		link: "https://ndt-tiktokui.netlify.app/",
 		img: ["app-5.png", "app-5-1.png", "app-5-2.png"],
